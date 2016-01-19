@@ -1,5 +1,12 @@
 <resources>>
 
+    <style name="Theme.Flickr" parent="Theme.Base">
+        <item name="android:navigationBarColor">?colorPrimaryDark</item>
+
+
+    </style>
+
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
